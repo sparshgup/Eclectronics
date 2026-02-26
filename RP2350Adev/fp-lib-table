@@ -1,0 +1,13 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "CL10B104JB8NNNC")(type "KiCad")(uri "${KIPRJMOD}/CL10B104JB8NNNC/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "ERJ_3EKF5101V")(type "KiCad")(uri "${KIPRJMOD}/ERJ_3EKF5101V/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "GRM188Z71C475KE21D")(type "KiCad")(uri "${KIPRJMOD}/GRM188Z71C475KE21D/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "RC0603FR_071KL")(type "KiCad")(uri "${KIPRJMOD}/RC0603FR_071KL/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "RC0603FR_0727RL")(type "KiCad")(uri "${KIPRJMOD}/RC0603FR_0727RL/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "RC0603FR_0733RL")(type "KiCad")(uri "${KIPRJMOD}/RC0603FR_0733RL/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "GRM188R61E106KA73D")(type "KiCad")(uri "${KIPRJMOD}/GRM188R61E106KA73D")(options "")(descr ""))
+  (lib (name "Eclectronics")(type "KiCad")(uri "${KIPRJMOD}/Eclectronics/Eclectronics.pretty")(options "")(descr ""))
+  (lib (name "ul_B3U-1000P")(type "KiCad")(uri "${KIPRJMOD}/ul_B3U-1000P/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "ul_MCP1702T-3302E-CB")(type "KiCad")(uri "${KIPRJMOD}/ul_MCP1702T-3302E-CB/KiCADv6/footprints.pretty")(options "")(descr ""))
+)
