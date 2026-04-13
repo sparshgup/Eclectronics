@@ -1,0 +1,9 @@
+(version 1)
+(rule "USB-C connector clearance"
+  (constraint clearance (min 0.15mm))
+  (condition "A.memberOfFootprint('J1') && B.memberOfFootprint('J1')")
+)
+(rule "USB-C connector hole clearance"
+  (constraint hole_clearance (min 0.15mm))
+  (condition "A.memberOfFootprint('J1') && B.memberOfFootprint('J1')")
+)
