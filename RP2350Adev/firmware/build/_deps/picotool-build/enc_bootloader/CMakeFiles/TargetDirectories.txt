@@ -1,0 +1,2 @@
+/Users/sparshg/Eclectronics/RP2350Adev/firmware/build/_deps/picotool-build/enc_bootloader/CMakeFiles/edit_cache.dir
+/Users/sparshg/Eclectronics/RP2350Adev/firmware/build/_deps/picotool-build/enc_bootloader/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,12 @@
+# KiCad auto-generated / cache / lock / backup files
+*-backups/
+*.kicad_prl
+*.bak
+*.lck
+~*.lck
+*-cache.lib
+fp-info-cache
+*.kicad_pcb-bak
+
+# OS
+.DS_Store

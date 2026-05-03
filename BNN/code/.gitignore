@@ -1,0 +1,17 @@
+# Build artifacts
+fpga/build/
+firmware/build/
+
+# Generated weights / bitstream embedding
+training/model.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store

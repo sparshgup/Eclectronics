@@ -1,0 +1,17 @@
+# iCE40UP5K-SG48I pin constraints for the BNN board.
+# Pin numbers refer to the QFN-48 package.
+
+# Clock from RP2040 GPIO7 (global buffer input).
+set_io clk 35
+
+# SPI slave for data exchange with RP2040.
+# Note: SCK/MOSI/MISO are shared with the configuration flash; after CDONE
+# they become available as general I/O for this slave.
+set_io spi_cs   26
+set_io spi_sck  15
+set_io spi_mosi 17
+set_io spi_miso 14
+
+# UART bridge (reserved — not used by this design but pinned for future use).
+set_io uart_rx 25
+set_io uart_tx 27

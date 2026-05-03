@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/sparshg/Eclectronics/RP2350Adev/firmware/build/_deps/picotool-build/enc_bootloader/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
